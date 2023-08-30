@@ -4,3 +4,4 @@
 	1 git config --global user.name "username"
 	2 git config --global user.email "email"
 4 git push -u master
+dummy change

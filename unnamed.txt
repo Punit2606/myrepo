@@ -1,0 +1,6 @@
+1 git account
+2 empty repo
+3 local system
+	1 git config --global user.name "username"
+	2 git config --global user.email "email"
+4 git push -u master

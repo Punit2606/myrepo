@@ -5,3 +5,4 @@
 	2 git config --global user.email "email"
 4 git push -u master
 dummy change
+new change
